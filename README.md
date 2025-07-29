@@ -47,15 +47,15 @@ Este proyecto utiliza:
 
 - Github
 - Trello ![Trello](./Capturas/Trello.png)
-- Figma
-- Render
-- Postman
+- Figma para el diseño inicial ![Figma](./Capturas/Figma.png)
+- Render ![Render](./Capturas/Render.png)
+- Postman para testear endpoints ![Postman](./Capturas/Postman.png)
 - Aiven
-- Expo
-- Canva
-- Github Copilot
-- PgAdmin
-- Sublime Merge
+- Expo para la creación de la app ![Expo](./Capturas/Expo.png)
+- Canva para la presentación
+- Github Copilot para ayuda con el código
+- PgAdmin para testear la BBDD ![PgAdmin](./Capturas/PgAdmin.png)
+- Sublime Merge ![Sublime Merge](./Capturas/SublimeMerge.png)
 
 ---
 

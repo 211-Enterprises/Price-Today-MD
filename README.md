@@ -54,7 +54,7 @@ Este proyecto utiliza:
 
 ![Figma](./Capturas/Figma.png)
 
-- Render  
+- Render para hostear el servicio FastAPI
 
 ![Render](./Capturas/Render.jpg)
 
@@ -62,7 +62,7 @@ Este proyecto utiliza:
 
 ![Postman](./Capturas/Postman.png)
 
-- Aiven
+- Aiven para hostear la BBDD PostgreSQL
 
 ![Aiven](./Capturas/Aiven.png)
 

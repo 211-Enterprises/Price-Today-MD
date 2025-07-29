@@ -38,7 +38,7 @@ Este proyecto utiliza:
 - React Native / Expo (TSX) para el front
 - FastAPI Python como middleware para acceder a la BBDD. Hosteado en Render.
 - Base de datos PostgreSQL hosteado en Aiven.
-- 📚 Librerías relevantes
+- Librerías relevantes
 
 ---
 
@@ -47,7 +47,6 @@ Este proyecto utiliza:
 Puedes añadir imágenes o gifs del proyecto en funcionamiento:
 
 ![Captura 1](./screenshots/captura1.png)
-![Captura 2](./screenshots/captura2.gif)
 
 ---
 

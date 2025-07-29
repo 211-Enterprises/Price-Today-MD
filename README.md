@@ -62,7 +62,10 @@ Este proyecto utiliza:
 
 ![Postman](./Capturas/Postman.png)
 
-- Aiven  
+- Aiven
+
+![Aiven](./Capturas/Aiven.png)
+
 - Expo para la creación de la app  
 
 ![Expo](./Capturas/Expos.png)

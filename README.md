@@ -1,6 +1,6 @@
 # Price Today
 
-![Captura 1](./Capturas/Splash-LG.png)
+![Splash-LG](./Capturas/Splash-LG.png)
 
 Una breve descripción de tu proyecto. ¿Qué hace? ¿Por qué es útil? ¿Cuál es su objetivo?
 
@@ -43,11 +43,9 @@ Este proyecto utiliza:
 
 ---
 
-## Capturas de Pantalla
+## Herramientas
 
-Puedes añadir imágenes o gifs del proyecto en funcionamiento:
-
-![Captura 1](./Capturas/Splash-LG.png)
+- Trello ![Trello](./Capturas/Trello.png)
 
 ---
 

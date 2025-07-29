@@ -56,7 +56,7 @@ Este proyecto utiliza:
 ![Postman](./Capturas/Postman.jpeg)
 - Aiven
 - Expo para la creación de la app
-![Expo](./Capturas/Expo.png)
+![Expo](./Capturas/Expos.png)
 - Canva para la presentación
 - Github Copilot para ayuda con el código
 - PgAdmin para testear la BBDD

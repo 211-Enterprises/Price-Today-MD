@@ -9,11 +9,10 @@ Una breve descripción de tu proyecto. ¿Qué hace? ¿Por qué es útil? ¿Cuál
 ## Tabla de Contenido
 
 - [Instalación](#instalación)
-- [Uso](#uso)
 - [Características](#características)
 - [Tecnologías](#tecnologías)
 - [Capturas de Pantalla](#capturas-de-pantalla)
-- [Autor](#autor)
+- [Autores](#autores)
 
 ---
 

@@ -4,7 +4,7 @@ Una breve descripción de tu proyecto. ¿Qué hace? ¿Por qué es útil? ¿Cuál
 
 ---
 
-## 📚 Tabla de Contenido
+## Tabla de Contenido
 
 - [Instalación](#instalación)
 - [Uso](#uso)
@@ -15,7 +15,7 @@ Una breve descripción de tu proyecto. ¿Qué hace? ¿Por qué es útil? ¿Cuál
 
 ---
 
-## ⚙️ Instalación
+## Instalación
 
 1. Envía un correo solicitando acceso a:
 ivanbarquerosanchez@hotmail.com

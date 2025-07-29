@@ -60,7 +60,7 @@ Este proyecto utiliza:
 - Canva para la presentación
 - Github Copilot para ayuda con el código
 - PgAdmin para testear la BBDD
-![PgAdmin](./Capturas/PgAdmin.jpg)
+![PgAdmin](./Capturas/PgAdmin.png)
 - Sublime Merge
 ![Sublime Merge](./Capturas/SublimeMerge.png)
 

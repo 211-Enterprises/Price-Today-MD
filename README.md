@@ -56,11 +56,11 @@ Este proyecto utiliza:
 
 - Render  
 
-![Render](./Capturas/Render.jpg)
+![Render](./Capturas/Render.png)
 
 - Postman para testear endpoints  
 
-![Postman](./Capturas/Postman.jpeg)
+![Postman](./Capturas/Postman.png)
 
 - Aiven  
 - Expo para la creación de la app  
@@ -71,7 +71,7 @@ Este proyecto utiliza:
 - Github Copilot para ayuda con el código  
 - PgAdmin para testear la BBDD  
 
-![PgAdmin](./Captur)
+![PgAdmin](./Capturas/PgAdmin.png)
 
 ---
 

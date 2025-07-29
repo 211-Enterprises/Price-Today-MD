@@ -45,7 +45,17 @@ Este proyecto utiliza:
 
 ## Herramientas
 
+- Github
 - Trello ![Trello](./Capturas/Trello.png)
+- Figma
+- Render
+- Postman
+- Aiven
+- Expo
+- Canva
+- Github Copilot
+- PgAdmin
+- Sublime Merge
 
 ---
 

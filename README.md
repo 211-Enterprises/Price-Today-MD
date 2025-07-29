@@ -56,7 +56,7 @@ Este proyecto utiliza:
 
 - Render  
 
-![Render](./Capturas/Render.png)
+![Render](./Capturas/Render.jpg)
 
 - Postman para testear endpoints  
 

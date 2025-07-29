@@ -54,7 +54,7 @@ Puedes añadir imágenes o gifs del proyecto en funcionamiento:
 ## Autores
 
 **Ivan Álvarez**  
-GitHub: [@IvIkki1987](https://github.com/IvIkki1987)
+GitHub: [@IvIkki1987](https://github.com/IvIkki1987)  
 LinkedIn: [Ivan Álvarez Sierra](https://www.linkedin.com/in/ivan-alvarez-sierra-8126a722b)
 
 **Iván Barquero**  

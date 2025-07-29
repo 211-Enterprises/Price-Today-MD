@@ -45,7 +45,11 @@ Este proyecto utiliza:
 
 ## Herramientas
 
-- Github  
+- Github
+- Sublime Merge
+
+![Sublime Merge](./Capturas/SublimeMerge.png)
+
 - Trello  
 
 ![Trello](./Capturas/Trello.png)
@@ -66,15 +70,16 @@ Este proyecto utiliza:
 
 ![Aiven](./Capturas/Aiven.png)
 
+- PgAdmin para testear la BBDD  
+
+![PgAdmin](./Capturas/PgAdmin.png)
+
 - Expo para la creación de la app  
 
 ![Expo](./Capturas/Expos.png)
 
 - Canva para la presentación  
 - Github Copilot para ayuda con el código  
-- PgAdmin para testear la BBDD  
-
-![PgAdmin](./Capturas/PgAdmin.png)
 
 ---
 

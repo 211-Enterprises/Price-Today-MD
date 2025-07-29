@@ -22,7 +22,7 @@ ivanbarquerosanchez@hotmail.com
 
 2. Cuando se te añada como tester, podrás descargar la aplicación desde Play Store.
 
-## ✨ Características
+## Características
 
 - Búsqueda de productos de diferentes supermercados
 - Uso de carritos personales para añadir productos como una lista de la compra, con los productos separados por supermercado
@@ -31,7 +31,7 @@ ivanbarquerosanchez@hotmail.com
 
 ---
 
-## 🛠 Tecnologías
+## Tecnologías
 
 Este proyecto utiliza:
 
@@ -42,7 +42,7 @@ Este proyecto utiliza:
 
 ---
 
-## 🖼 Capturas de Pantalla
+## Capturas de Pantalla
 
 Puedes añadir imágenes o gifs del proyecto en funcionamiento:
 

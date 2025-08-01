@@ -95,7 +95,7 @@ LinkedIn: [Iván Barquero Sánchez](https://www.linkedin.com/in/ivanbarquero/)
 
 **Richard Buysse**  
 GitHub: [@richardbuysse](https://github.com/richardbuysse)  
-LinkedIn: [Richard Vicente Buysse Idler](https://www.linkedin.com/in/ivanbarquero/)
+LinkedIn: [Richard Vicente Buysse Idler](https://www.linkedin.com/in/richard-buysse-idler-a1204b378/)
 
 **Luis Petrella**  
 GitHub: [@rm-httpse](https://github.com/rm-httpse)  
